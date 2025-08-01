@@ -5,7 +5,7 @@ related:
       type: obsolete
     - id: a0ff33d8-79e4-4cef-b4f3-9dc4133ccd12
       type: obsolete
-status: experimental
+status: test
 description: Detects potential COM object hijacking via modification of default system CLSID.
 references:
     - https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/ (idea)
