@@ -3808,3 +3808,13 @@ https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/init
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4624
 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487
+https://gtfobins.github.io/gtfobins/c99/#shell
+https://github.com/joaoviictorti/RustRedOps/tree/ce04369a246006d399e8c61d9fe0e6b34f988a49/Self_Deletion
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
+https://app.any.run/tasks/9a8fd563-4c54-4d0a-9ad8-1fe08339cbc3/
+https://gtfobins.github.io/gtfobins/nawk/#shell
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dnscmd
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enable-psremoting?view=powershell-7.2
+https://www.hexacorn.com/blog/2018/08/31/beyond-good-ol-run-key-part-85/
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-tag-explanations
