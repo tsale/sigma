@@ -3808,3 +3808,13 @@ https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/init
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4624
 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487
+https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.html#wp1127609
+https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/
+https://cyber.wtf/2023/12/06/the-csharp-streamer-rat/
+https://www.packetmischief.ca/2023/07/31/amazon-ec2-credential-exfiltration-how-it-happens-and-how-to-mitigate-it/#lifting-credentials-from-imds-this-is-why-we-cant-have-nice-things
+https://web.archive.org/web/20221019044836/https://nsudo.m2team.org/en-us/
+https://www.hexacorn.com/blog/2018/08/31/beyond-good-ol-run-key-part-85/
+https://docs.microsoft.com/en-us/powershell/module/powershellwebaccess/install-pswawebapplication
+https://web.archive.org/web/20200530031906/https://techtalk.pcmatic.com/2017/11/30/running-dll-files-malware-analysis/
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
